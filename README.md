@@ -1,7 +1,11 @@
 # Model-Compression
 Technology of compressing model.
 
-[Introduction](https://cloud.tencent.com/developer/article/1005738)
+## [Introduction](https://cloud.tencent.com/developer/article/1005738)
+
+## 知乎
+- [深度学习模型压缩读书笔记](https://zhuanlan.zhihu.com/p/32223484)
+- [模型压缩那些事](https://zhuanlan.zhihu.com/p/28439056)
 
 ## Papers & Code
 - __[2016-ICLR] SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and < 0.5MB model size__ [`paper`](https://arxiv.org/pdf/1602.07360.pdf)
