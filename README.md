@@ -13,6 +13,12 @@ Technology of compressing model.
 - __[2015-NIPS] BinaryConnect: Training Deep Neural Networks with binary weights during propagations__ [`paper`](http://papers.nips.cc/paper/5647-binaryconnect-training-deep-neural-networks-with-binary-weights-during-propagations.pdf)
 [`code`](https://github.com/MatthieuCourbariaux/BinaryConnect)
 
+- __[2016-NIPS] Dynamic Network Surgery for Efficient DNNs__[`paper`](http://papers.nips.cc/paper/6165-dynamic-network-surgery-for-efficient-dnns.pdf)
+
+- __[2016-NIPS] Learning Structured Sparsity in Deep Neural Networks__[`paper`](http://papers.nips.cc/paper/6504-learning-structured-sparsity-in-deep-neural-networks.pdf)
+
+- __[2017-CVPR] A Gift from Knowledge Distillation:Fast Optimization, Network Minimization and Transfer Learning__[`paper`](a gift from knowledge distillation fast optimization network minimization and transfer learning)
+
 - __[2016-ICLR] Neural Networks with Few Multiplications__ [`paper`](https://arxiv.org/pdf/1510.03009.pdf)
 [`code`](https://github.com/hantek/BinaryConnect)
 
@@ -32,8 +38,20 @@ Technology of compressing model.
 - __[2018-CVPR] MobileNetV2: Inverted Residuals and Linear Bottlenecks__ [`paper`](https://arxiv.org/pdf/1801.04381.pdf)
 [`code`](https://github.com/MG2033/MobileNet-V2)
 
-- __[2017-CVPR] ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices__ [`paper`](https://arxiv.org/pdf/1707.01083.pdf)
-[`code`](https://github.com/MG2033/ShuffleNet)
+- __[2017-CVPR] ShuffleNet: An Extremely Efficient Convolutional Neural Network for Mobile Devices__ [`paper`](https://arxiv.org/pdf/1707.01083.pdf) [`code`](https://github.com/MG2033/ShuffleNet)
+
+## Pruning
+- __[2017-ICLR] Pruning Filters for Efficient ConvNets__ [`paper`](https://arxiv.org/pdf/1608.08710.pdf)
+[`code`](https://github.com/slothkong/DNN-Pruning)
+
+🌟
+- __[2017-ICCV] Channel Pruning for Accelerating Very Deep Neural Networks__ [`paper`](https://arxiv.org/pdf/1707.06168.pdf)
+[`code`](https://github.com/yihui-he/channel-pruning)
+
+- __[2017-ICCV] ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression__ [`paper`](https://arxiv.org/pdf/1707.06168.pdf)[`code`](https://github.com/Roll920/ThiNet)
+[`code`](https://github.com/MG2033/MobileNet-V2)
+
+
 
 
 
