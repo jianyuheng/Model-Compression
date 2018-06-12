@@ -7,6 +7,8 @@ Technology of compressing model.
 
 - [Deep Compression （ICLR2016 Best Paper）](https://zhuanlan.zhihu.com/p/21574328)
 - [模型压缩那些事](https://zhuanlan.zhihu.com/p/28439056)
+- [当前深度神经网络模型压缩和加速都有哪些方法？](https://zhuanlan.zhihu.com/p/36051603)
+- [VALSE 2018年度进展报告 | 深度神经网络加速与压缩](https://zhuanlan.zhihu.com/p/36616989)
 
 ## Papers & Code
 - __[2016-ICLR] SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and < 0.5MB model size__ [`paper`](https://arxiv.org/pdf/1602.07360.pdf)
