@@ -4,7 +4,8 @@ Technology of compressing model.
 ## [Introduction](https://cloud.tencent.com/developer/article/1005738)
 
 ## 知乎
-- [深度学习模型压缩读书笔记](https://zhuanlan.zhihu.com/p/32223484)
+
+- [Deep Compression （ICLR2016 Best Paper）](https://zhuanlan.zhihu.com/p/21574328)
 - [模型压缩那些事](https://zhuanlan.zhihu.com/p/28439056)
 
 ## Papers & Code
