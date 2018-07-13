@@ -50,11 +50,10 @@
 - __[2018-CVPR] “Learning-Compression” Algorithms for Neural Net Pruning__ [`paper`](http://faculty.ucmerced.edu/mcarreira-perpinan/papers/cvpr18.pdf)
 - __[2018-ICLR]Rethinking the Smaller-Norm-Less-Informative Assumption in Channel Pruning of Convolution Layers__ [`paper`](https://openreview.net/pdf?id=HJ94fqApW) 
 - __[2018-ICLR] Efficient Sparse-Winograd Convolutional Neural Networks__  [`paper`](https://openreview.net/pdf?id=r1rqJyHKg) 
-
-- **[2017-ICCV] Channel Pruning for Accelerating Very Deep Neural Networks** [`paper`](https://arxiv.org/pdf/1707.06168.pdf) [`code`](https://github.com/yihui-he/channel-pruning)
-
 - __[2018-WACV] Recovering from Random Pruning: On the Plasticity of Deep Convolutional Neural Networks__  [`paper`](https://arxiv.org/abs/1801.10447) 
 - **[2018-ICML] Deep k-Means: Re-Training and Parameter Sharing with Harder Cluster Assignments for Compressing Deep Convolutions** [`paper`](https://arxiv.org/abs/1806.09228) [`code`](https://github.com/Sandbox3aster/Deep-K-Means-pytorch)
+- **[2017-ICCV] Channel Pruning for Accelerating Very Deep Neural Networks** [`paper`](https://arxiv.org/pdf/1707.06168.pdf) [`code`](https://github.com/yihui-he/channel-pruning)
+
 
 ### 🌟 Binarization
 
