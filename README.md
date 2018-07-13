@@ -27,7 +27,7 @@ Technology of Model-Compression.
 
 - __[2016-NIPS] Learning Structured Sparsity in Deep Neural Networks__[`paper`](http://papers.nips.cc/paper/6504-learning-structured-sparsity-in-deep-neural-networks.pdf)
 
-- __[2017-CVPR] A Gift from Knowledge Distillation:Fast Optimization, Network Minimization and Transfer Learning__[`paper`](a gift from knowledge distillation fast optimization network minimization and transfer learning)
+- __[2017-CVPR] A Gift from Knowledge Distillation:Fast Optimization, Network Minimization and Transfer Learning__[`paper`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf)
 
 - __[2016-ICLR] Neural Networks with Few Multiplications__ [`paper`](https://arxiv.org/pdf/1510.03009.pdf)
 [`code`](https://github.com/hantek/BinaryConnect)
