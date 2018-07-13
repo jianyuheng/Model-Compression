@@ -1,5 +1,5 @@
 # Model-Compression
-Technology of compressing model.
+Technology of Model-Compression.
 
 ## [Introduction](https://cloud.tencent.com/developer/article/1005738)
 
@@ -14,8 +14,8 @@ Technology of compressing model.
 - [CVPR 2018 高效小网络探密](https://zhuanlan.zhihu.com/p/37074222)
 
 ## Papers & Code
-- __[2016-ICLR] SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and < 0.5MB model size__ [`paper`](https://arxiv.org/pdf/1602.07360.pdf)
-[`code`](https://github.com/DeepScale/SqueezeNet)
+
+- __[2016-ICLR] SqueezeNet: AlexNet-level accuracy with 50x fewer parameters and < 0.5MB model size__ [`paper`](https://arxiv.org/pdf/1602.07360.pdf) [`code`](https://github.com/DeepScale/SqueezeNet)
 
 - __[2016-ICLR] Deep Compression: Compressing Deep Neural Networks with Pruning, Trained Quantization and Huffman Coding__ [`paper`](https://arxiv.org/pdf/1510.00149.pdf)
 [`code`](https://github.com/songhan/Deep-Compression-AlexNet)
@@ -42,8 +42,7 @@ Technology of compressing model.
 - __[2014-NIPS] Distilling the Knowledge in a Neural Network__ [`paper`](https://arxiv.org/pdf/1503.02531.pdf)
 [`code`](https://github.com/allenai/XNOR-Net)
 
-- __[2017-CVPR] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications__ [`paper`](https://arxiv.org/pdf/1704.04861.pdf)
-[`code`](https://github.com/Zehaos/MobileNet)
+- __[2017-CVPR] MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications__ [`paper`](https://arxiv.org/pdf/1704.04861.pdf) [`code`](https://github.com/Zehaos/MobileNet)
 
 - __[2018-CVPR] MobileNetV2: Inverted Residuals and Linear Bottlenecks__ [`paper`](https://arxiv.org/pdf/1801.04381.pdf)
 [`code`](https://github.com/MG2033/MobileNet-V2)
@@ -62,6 +61,8 @@ Technology of compressing model.
 [`code`](https://github.com/MG2033/MobileNet-V2)
 
 - __[2017-ICCV] IGCV2: Interleaved Structured Sparse Convolutional Neural Networks__ [`paper`](https://www.semanticscholar.org/paper/IGCV2%3A-Interleaved-Structured-Sparse-Convolutional-Xie-Wang/a2afaa782be91f5baf9e9f1794d57dd29143cbf4)
+
+
 
 
 
