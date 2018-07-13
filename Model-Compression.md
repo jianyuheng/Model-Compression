@@ -76,6 +76,6 @@
 
 ### 🌟 Accelerating / Fast Algorithms
 
-- __[2018-AAAI] Learning a Wavelet-like Auto-Encoder to Accelerate Deep Neural Networks __[`paper`](https://arxiv.org/abs/1712.07493)
+- __[2018-AAAI] Learning a Wavelet-like Auto-Encoder to Accelerate Deep Neural Networks__[`paper`](https://arxiv.org/abs/1712.07493)
 - **[2018-arXiv] Uber SBNet: Sparse Blocks Network for Fast Inference**[`paper`](https://arxiv.org/abs/1801.02108)
 
