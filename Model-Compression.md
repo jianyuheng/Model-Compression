@@ -15,11 +15,13 @@
 
 ### 🌟 Compact Network Design
 
+- __[2018-arXiv] IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks__ [`paper`](https://arxiv.org/pdf/1803.10615)
+
 - __[2018-CVPR] IGCV2: Interleaved Structured Sparse Convolutional Neural Networks__ [`paper`](https://www.semanticscholar.org/paper/IGCV2%3A-Interleaved-Structured-Sparse-Convolutional-Xie-Wang/a2afaa782be91f5baf9e9f1794d57dd29143cbf4)
 
 - __[2018-arXiv] SqueezeNext: Hardware-Aware Neural Network Design__ [`paper`](https://www.semanticscholar.org/paper/IGCV2%3A-Interleaved-Structured-Sparse-Convolutional-Xie-Wang/a2afaa782be91f5baf9e9f1794d57dd29143cbf4) [`code`](https://github.com/homles11/IGCV3)
 
-- __[2018-arXiv] IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks__ [`paper`](https://arxiv.org/pdf/1803.10615)
+
 
 - __[2018-CVPR] MobileNetV2: Inverted Residuals and Linear Bottlenecks__ [`paper`](https://arxiv.org/pdf/1801.04381.pdf)[`code`](https://github.com/MG2033/MobileNet-V2)
 
