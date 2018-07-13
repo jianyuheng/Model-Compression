@@ -16,7 +16,7 @@
 ### 🌟 Compact Network Design
 
 - __[2018-CVPR] IGCV2: Interleaved Structured Sparse Convolutional Neural Networks__ [`paper`](https://www.semanticscholar.org/paper/IGCV2%3A-Interleaved-Structured-Sparse-Convolutional-Xie-Wang/a2afaa782be91f5baf9e9f1794d57dd29143cbf4)
-- __[2018-arXiv] SqueezeNext: Hardware-Aware Neural Network Design __ [`paper`](https://www.semanticscholar.org/paper/IGCV2%3A-Interleaved-Structured-Sparse-Convolutional-Xie-Wang/a2afaa782be91f5baf9e9f1794d57dd29143cbf4) [`code`](https://github.com/homles11/IGCV3)
+- __[2018-arXiv] SqueezeNext: Hardware-Aware Neural Network Design__ [`paper`](https://www.semanticscholar.org/paper/IGCV2%3A-Interleaved-Structured-Sparse-Convolutional-Xie-Wang/a2afaa782be91f5baf9e9f1794d57dd29143cbf4) [`code`](https://github.com/homles11/IGCV3)
 - __[2018-arXiv] IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks__ [`paper`](https://arxiv.org/pdf/1803.10615)
 - __[2018-CVPR] MobileNetV2: Inverted Residuals and Linear Bottlenecks__ [`paper`](https://arxiv.org/pdf/1801.04381.pdf)[`code`](https://github.com/MG2033/MobileNet-V2)
 - __[2017-CVPR] SENet: Squeeze-and-Excitation Networks__[`paper`](https://arxiv.org/abs/1709.01507) [`code`](https://github.com/hujie-frank/SENet)
@@ -35,7 +35,7 @@
 
 - __[2018-ICLR] Model compression via distillation and quantization__ [`paper`](https://arxiv.org/abs/1503.02531) 
 - __[2018-AAAI] DarkRank: Accelerating Deep Metric Learning via Cross Sample Similarities Transfer__[`paper`](https://arxiv.org/pdf/1707.01220.pdf)
-- __[2017-CVPR] Like What You Like: Knowledge Distill via Neuron Selectivity Transfer __[`paper`](https://arxiv.org/abs/1707.01219)
+- __[2017-CVPR] Like What You Like: Knowledge Distill via Neuron Selectivity Transfer__[`paper`](https://arxiv.org/abs/1707.01219)
 - **[2017-CVPR] A Gift from Knowledge Distillation:Fast Optimization, Network Minimization and Transfer Learning**[`paper`](http://openaccess.thecvf.com/content_cvpr_2017/papers/Yim_A_Gift_From_CVPR_2017_paper.pdf)
 
 - __[2016-CVPR] Cross Model Distillation for Supervision Transfer__ [`paper`](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Gupta_Cross_Modal_Distillation_CVPR_2016_paper.pdf) [`code`](https://github.com/DeepScale/SqueezeNet)
@@ -77,6 +77,6 @@
 
 ### 🌟 Accelerating / Fast Algorithms
 
-- __[2018-AAAI] Learning a Wavelet-like Auto-Encoder to Accelerate Deep Neural Networks __[`paper`](https://arxiv.org/abs/1712.07493)
+- __[2018-AAAI] Learning a Wavelet-like Auto-Encoder to Accelerate Deep Neural Networks__[`paper`](https://arxiv.org/abs/1712.07493)
 - **[2018-arXiv] Uber SBNet: Sparse Blocks Network for Fast Inference**[`paper`](https://arxiv.org/abs/1801.02108)
 
