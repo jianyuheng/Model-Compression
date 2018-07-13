@@ -7,7 +7,7 @@
 ### 🌟 Overview
 
 - __[2018-arXiv] Recent Advances in Efficient Computation of Deep Convolutional Neural Networks__ [`paper`](https://arxiv.org/pdf/1802.00939.pdf)
-- **[2018-arXiv] A Survey on Acceleration of Deep Convolutional Neural Networks **[`paper`](https://arxiv.org/abs/1802.00939)
+- **[2018-arXiv] A Survey on Acceleration of Deep Convolutional Neural Networks**[`paper`](https://arxiv.org/abs/1802.00939)
 - __[2017-arXiv] A Survey of Model Compression and Acceleration for Deep Neural Networks__  [`paper`](https://arxiv.org/abs/1710.09282)
 
 - __[2017-arXiv] Model compression as constrained optimization, with application to neural nets. Part I: general framework__  [`paper`](https://arxiv.org/abs/1707.01209)
@@ -17,7 +17,7 @@
 
 - __[2018-arXiv] IGCV3: Interleaved Low-Rank Group Convolutions for Efficient Deep Neural Networks__ [`paper`](https://arxiv.org/pdf/1803.10615)
 - __[2018-CVPR] IGCV2: Interleaved Structured Sparse Convolutional Neural Networks__ [`paper`](https://www.semanticscholar.org/paper/IGCV2%3A-Interleaved-Structured-Sparse-Convolutional-Xie-Wang/a2afaa782be91f5baf9e9f1794d57dd29143cbf4)
-- __[2018-arXiv] SqueezeNext: Hardware-Aware Neural Network Design __ [`paper`](https://www.semanticscholar.org/paper/IGCV2%3A-Interleaved-Structured-Sparse-Convolutional-Xie-Wang/a2afaa782be91f5baf9e9f1794d57dd29143cbf4) 
+- __[2018-arXiv] SqueezeNext: Hardware-Aware Neural Network Design__ [`paper`](https://www.semanticscholar.org/paper/IGCV2%3A-Interleaved-Structured-Sparse-Convolutional-Xie-Wang/a2afaa782be91f5baf9e9f1794d57dd29143cbf4) 
 - __[2018-CVPR] MobileNetV2: Inverted Residuals and Linear Bottlenecks__  [`paper`](https://arxiv.org/pdf/1801.04381.pdf)[`code`](https://github.com/MG2033/MobileNet-V2)
 - __[2017-CVPR] SENet: Squeeze-and-Excitation Networks__ [`paper`](https://arxiv.org/abs/1709.01507) [`code`](https://github.com/hujie-frank/SENet)
 - __[2017-CVPR] MobileNetsV1: Efficient Convolutional Neural Networks for Mobile Vision Applications__[`paper`](https://arxiv.org/pdf/1704.04861.pdf) [`code`](https://github.com/Zehaos/MobileNet)
@@ -81,6 +81,6 @@
 
 ### 🌟 Accelerating / Fast Algorithms
 
-- __[2018-AAAI] Learning a Wavelet-like Auto-Encoder to Accelerate Deep Neural Networks __[`paper`](https://arxiv.org/abs/1712.07493)
+- __[2018-AAAI] Learning a Wavelet-like Auto-Encoder to Accelerate Deep Neural Networks__[`paper`](https://arxiv.org/abs/1712.07493)
 - **[2018-arXiv] Uber SBNet: Sparse Blocks Network for Fast Inference**[`paper`](https://arxiv.org/abs/1801.02108)
 
